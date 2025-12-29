@@ -510,38 +510,6 @@ To test admin functionality, you can create an admin user manually in MongoDB:
 
 Or modify a regular user's role to "admin" after signup.
 
-## 🐛 Troubleshooting
-
-### Backend won't start
-- Check MongoDB connection string
-- Verify all environment variables are set
-- Ensure port 5000 is available
-
-### Frontend can't connect to backend
-- Verify `VITE_API_URL` points to correct backend URL
-- Check CORS configuration
-- Ensure backend is running
-
-### Authentication issues
-- Clear localStorage and try again
-- Check JWT_SECRET matches between requests
-- Verify token hasn't expired
-
-## 📚 Additional Notes
-
-- All routes use centralized routing in `backend/routes/index.js`
-- Server uses `connectDb().then()` pattern as requested
-- RBAC implemented via middleware for clean separation
-- Code is concise but covers essential edge cases
-- Football theme provides engaging, modern UI
-
-## 🎥 Video Walkthrough
-
-[To be added: Link to screen recording demonstrating all features]
-
-## 📄 License
-
-MIT
 
 ## 👨‍💻 Author
 
