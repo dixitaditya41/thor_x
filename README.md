@@ -2,6 +2,15 @@
 
 A full-stack web application for managing user accounts with authentication, role-based access control (RBAC), and a football-themed UI. Built for the Mini User Management System assessment.
 
+## Live Links
+
+Frontend: https://thor-x-plum.vercel.app  
+Backend API: https://thor-x.onrender.com  
+
+## GitHub Repository
+https://github.com/dixitaditya41/thor_x
+
+
 ## 🎯 Project Overview
 
 This system provides comprehensive user management capabilities including:
