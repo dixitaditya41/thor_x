@@ -535,14 +535,6 @@ Or modify a regular user's role to "admin" after signup.
 - Code is concise but covers essential edge cases
 - Football theme provides engaging, modern UI
 
-## 🎥 Video Walkthrough
-
-[To be added: Link to screen recording demonstrating all features]
-
-## 📄 License
-
-MIT
-
 ## 👨‍💻 Author
 
 Built for the Purple Merit Technologies assessment
